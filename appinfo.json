@@ -1,0 +1,28 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "blahs21@gmail.com",
+    "longName": "ucd-watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/hackoverflow.png",
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ucd-watchface",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "379630d2-773f-428b-aa26-5930113bc8ec",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
